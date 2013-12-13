@@ -31,7 +31,7 @@ The theme features:
 ## Basic Setup for new Jekyll site
 
 1. [Install Jekyll](http://jekyllrb.com) and read through the documentation if you haven't already.
-2. Fork the [Jekyll HMFAYSAL Theme](https://github.com/mmistakes/jekyll-hmfaysal-theme/fork)
+2. Fork the [Jekyll HMFAYSAL Theme](https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
@@ -180,7 +180,7 @@ Jekyll-HMFAYSAL-theme/
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/jekyll-hmfaysal-theme/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/issues/new).
 
 ---
 
