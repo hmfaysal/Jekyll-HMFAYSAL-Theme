@@ -1,0 +1,36 @@
+<div class="container">	
+		  <!-- Collect the nav links, forms, and other content for toggling -->
+		  <header>
+				<h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1><span><h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2></span>
+			</header>
+		  	<div class="component">
+				<h2>{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h2>
+				<!-- Start Nav Structure -->
+<button class="cn-button" id="cn-button" itemscope itemtype="http://schema.org/SiteNavigationElement">Menu</button>
+	<div class="cn-wrapper" id="cn-wrapper">
+	    <ul>
+	        {% for link in site.links %}
+			<li>
+				{% if link.external %}
+					<a href="{{ link.url }}"><span>{{ link.title }}</span></a>
+				{% else %}
+					<a href="{{ site.url }}{{ link.url }}"><span>{{ link.title }}</span></a>
+				{% endif %} 
+			</li>
+	        {% endfor %}
+	        <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><span>Feed</a></span></li>
+	        {% if site.search %}<li class="dosearch"><a href="#" title="Search"><span>Search</a></span></li>{% endif %}
+	    </ul>
+	</div>
+	<div id="cn-overlay" class="cn-overlay"></div>
+				<!-- End of Nav Structure -->
+
+{% include browser-upgrade.html %}
+
+{% if site.search %}<div class="search-wrapper">
+	<div class="search-form">
+		<input type="text" class="search-field" placeholder="Search...">
+		<i class="icon-remove-sign icon-2x"></i>
+		<ul class="search-results post-list"></ul><!-- /.search-results -->
+	</div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->{% endif %}
