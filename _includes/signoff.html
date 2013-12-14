@@ -1,7 +1,7 @@
 <br />
 <p>
   Til next time,<br/>
-  <a href="{{ site.url }}/about" title="Hossain Mohd Faysal" target="_self">{{ site.signoff }}</a></p>
-<p>
-  <img src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/images/signature.png" alt="HMFaysal-Signature" /> 
-</p>
+  <a href="{{ site.url }}/about" title="{{ site.owner.name }}" target="_self">{{ site.owner.name }}</a></p>
+{% if site.owner.signature_image %}<p>
+  <img src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/images/{{ site.owner.signature_image }}" alt="{{ site.owner.name }}s-signature" /> 
+</p>{% endif %}
