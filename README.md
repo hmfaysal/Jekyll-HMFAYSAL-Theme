@@ -1,6 +1,6 @@
 # Jekyll HMFAYSAL Theme
 
-Project name:	Jekyll HMFAYSAL THEME 
+Project name:	Jekyll HMFAYSAL THEME  
 Author:	Hossain Mohd. Faysal  
 Project type:	A Bold Theme for Jekyll  
 License:	GNU GPL V2  
@@ -56,7 +56,7 @@ disqus_shortname: shortname
 search:           true
 #Comment out url when working locally to resolve base urls correctly
 url:              http://whatever.com
-cdn:		          http://cdn.whatever.com
+cdn:		http://cdn.whatever.com
 
 # Owner/author information
 owner:
