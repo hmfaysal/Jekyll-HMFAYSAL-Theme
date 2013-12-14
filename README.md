@@ -56,13 +56,16 @@ disqus_shortname: shortname
 search:           true
 #Comment out url when working locally to resolve base urls correctly
 url:              http://whatever.com
-cdn:		http://cdn.whatever.com
+cdn:		          http://cdn.whatever.com
 
 # Owner/author information
 owner:
   name:           Your Name
   avatar:         your-photo.jpg
   email:          your@email.com
+  signoff_text:   Till next time
+  signoff_link:   http://localhost:4000/about
+  signature_image:  signature.png
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:
