@@ -20,7 +20,7 @@ The theme features:
 * Simple and clear permalink structure.
 * Calculation of post read-time based on word count.
 * Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page](https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/404.md) to get you started.
+* Vanilla [custom 404 page](http://www.theevilgenius.tk/404.html) to get you started.
 * Stylesheets for Pygments, Coderay and Highlight.Js to make your code examples look snazzy.
 * Simple search that overlays results based on post title.
 * Grunt build script for easier theme development.
