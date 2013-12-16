@@ -2,8 +2,8 @@
 <script>window.jQuery || document.write('<script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/assets/js/scripts.min.js"></script>
 <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/assets/js/polyfills.js"></script>
-<script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/assets/js/highlight.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
+{% if site.highlight_js %}<script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.url }}{% endif %}/assets/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>{% endif %}
 {% if site.search %}
 <!-- Jekyll Simple Search option -->
 <script>

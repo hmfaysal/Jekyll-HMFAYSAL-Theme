@@ -103,6 +103,7 @@ links:
 timezone:    America/New_York
 future:      true
 pygments:    false
+highlight_js:	true
 markdown:    kramdown
 paginate:    4
 paginate_path: "page:num"

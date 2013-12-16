@@ -1,4 +1,8 @@
 <div class="container">	
+			<div class="codrops-top clearfix">
+				{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><span>Follow my Updates</span></a>{% endif %}
+				<span class="right">{% if site.owner.hmfaysalsocial %}<a href="http://social.hmfaysal.tk/index.php?a=profile&u={{ site.owner.hmfaysalsocial }}" title="{{ site.owner.name}} on HMFaysal Social" target="_blank"><span>Add me as a friend</span></a>{% endif %}</span>
+			</div>
 		  <!-- Collect the nav links, forms, and other content for toggling -->
 		  <header>
 				<h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1><span><h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2></span>
