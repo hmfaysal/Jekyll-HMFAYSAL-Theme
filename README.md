@@ -114,6 +114,31 @@ permalink:   /:categories/:title
 
 ---
 
+## Post Front Matter YAML
+
+A new post should have the following structure to utilise the themes functions
+
+``` yaml
+---
+layout: post
+title: "Some Title"					# Title of the post
+description: Some description		# Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline				# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD				# Date
+category: personal
+tags: []
+image: 
+  feature: some-image.jpg
+  location: Some place
+  locationlink: http://somewebsite.com/some-place
+  credit: Some guy
+  creditlink: http://someguy.com
+comments: true
+---
+```
+
+---
+
 ## Folder Structure
 ``` bash
 Jekyll-HMFAYSAL-theme/
