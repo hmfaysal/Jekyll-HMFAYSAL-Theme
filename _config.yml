@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname:
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://howkj1.github.io/jim-main
+url:              http://jimhowk.com
 #cdn:			  http://cdn.localhost:4000
 
 # Owner/author information
@@ -38,18 +38,20 @@ google_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Tech Details
-    url: /technical-details
-  - title: Tags
-    url: /tags
-  - title: Blog
+#  - title: Tech Details
+#    url: /technical-details
+#  - title: Tags
+#    url: /tags
+  - title: Home
     url: /
     external: false
   - title: Tireless Wake
     url: http://tirelesswake.com
     external: true
-  - title: About
-    url: /about
+  - title: Blog
+    url: http://dev.tirelessake.com/wordpress
+#  - title: About
+#    url: /about
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
