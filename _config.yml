@@ -19,15 +19,15 @@ owner:
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        howkj1
 #  facebook:
-  github:
+  github:         howkj1
 #  stackexchange:
-  linkedin:
+  linkedin:       jimhowk
 #  instagram:
 #  flickr:
 #  tumblr:
 #  hmfaysalsocial: howkj1
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus:    howkj1
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -38,9 +38,6 @@ google_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Tireless Wake
-    url: http://tirelesswake.com
-    external: true
   - title: Tech Details
     url: /technical-details
   - title: Tags
@@ -50,6 +47,9 @@ links:
   - title: Blog
     url: /
     external: false
+  - title: Tireless Wake
+    url: http://tirelesswake.com
+    external: true
   - title: About
     url: /about
 
