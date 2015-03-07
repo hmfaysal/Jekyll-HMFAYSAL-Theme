@@ -42,8 +42,6 @@ links:
     url: /technical-details
   - title: Tags
     url: /tags
-  - title: Categories
-    url: /categories
   - title: Blog
     url: /
     external: false
