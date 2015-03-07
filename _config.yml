@@ -1,5 +1,5 @@
 title:            Jim Howk
-description:      Jim Howk's Bio.
+description:      Technologist Extraordinaire.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -18,14 +18,14 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        howkj1
-  facebook:
+#  facebook:
   github:
-  stackexchange:
+#  stackexchange:
   linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  hmfaysalsocial: howkj1
+#  instagram:
+#  flickr:
+#  tumblr:
+#  hmfaysalsocial: howkj1
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
@@ -33,12 +33,14 @@ owner:
 google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: T-Details
+  - title: Tireless Wake
+    url: http://tirelesswake.com
+  - title: Tech Details
     url: /technical-details
   - title: Tags
     url: /tags
