@@ -50,8 +50,8 @@ links:
     external: true
   - title: Blog
     url: http://dev.tirelessake.com/wordpress
-#  - title: About
-#    url: /about
+  - title: About
+    url: /about
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
