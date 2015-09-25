@@ -3,7 +3,7 @@ layout: page
 permalink: /about/index.html
 title: About
 description: Musician, Engineer, Problem Solver, Entrepreneur
-headline: About &#58; Jim Howk &#58;
+headline: About
 tags: [Jim, Howk, skills]
 modified: 2015-09-25
 image:
