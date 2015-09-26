@@ -42,6 +42,10 @@ body {
     margin-bottom: .2em;
 }
 
+body .component>h2 {
+  background-color: #cb4b16;
+}
+
 .cn-button {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
