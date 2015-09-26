@@ -399,6 +399,10 @@ body {
     text-align: center;
     background: rgba(0,0,0,.01);
 }
+body .container header {
+    background-color: #002b36;
+    color: #93a1a1;
+}
 
 .container>header h1 {
     position: relative;
@@ -3201,6 +3205,7 @@ pre .apache .sqbracket,pre .comment,pre .deletion,pre .doctype,pre .java .annota
 pre .coffeescript .javascript,pre .javascript .xml,pre .tex .formula,pre .xml .cdata,pre .xml .css,pre .xml .javascript,pre .xml .vbscript {
     opacity: .5;
 }
+
 
 
 .solar .highlight { background-color: #002b36; color: #93a1a1 }
