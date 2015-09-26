@@ -404,10 +404,6 @@ body .container header {
     color: #93a1a1;
 }
 
-header .site-title a {
-    color: #93a1a1;
-}
-
 .container>header h1 {
     position: relative;
     -moz-box-sizing: border-box;
@@ -2696,9 +2692,11 @@ body {
     animation-duration: 1s;
 }
 
+/*
 .site-title a {
     color: #000;
 }
+*/
 
 .site-description {
     margin-top: 0;
