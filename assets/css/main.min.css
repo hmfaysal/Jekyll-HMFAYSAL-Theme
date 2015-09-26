@@ -43,7 +43,8 @@ body {
 }
 
 body .component>h2 {
-  background-color: #cb4b16;
+  background-color: #586e75;
+  opacity: .9;
 }
 
 .cn-button {
