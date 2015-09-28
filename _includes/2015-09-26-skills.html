@@ -10,15 +10,22 @@
         var data = google.visualization.arrayToDataTable([
          ['Month', 'Systems Administration', 'Virtualization', 'Networking', 'cli', 'git', 'Average'],
          ['2006/05',  10,                    05,                20,           30,    0,      13.0],
+         ['2007/05',  0,                    0,                0,           0,    0,      13.0],
+
          ['2008/10',  35,                    15,                50,           40,    0,      28.0],
+         ['2009/10',  0,                    0,                0,           0,    0,      28.0],
+
          ['2011/01',  60,                    25,                52,           60,    0,      39.4],
+         ['2012/01',  0,                    0,                0,           0,    0,      39.4],
+         ['2013/01',  0,                    0,                0,           0,    0,      39.4],                   
+
          ['2014/05',  70,                    45,                64,           75,    0,      50.8],
          ['2015/09',  80,                    70,                78,           85,    65,      75.6],
       ]);
 
     var options = {
-      title : 'Skills Confidence',
-      vAxis: {title: 'Confidence Level'},
+      title : 'Skills Expertise',
+      vAxis: {title: 'Exptertise Level'},
       hAxis: {title: 'Month'},
       seriesType: 'bars',
       animation:{
