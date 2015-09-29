@@ -7,12 +7,24 @@
 
       function drawVisualization() {
         // Some raw data (not necessarily accurate)
-        var data = google.visualization.arrayToDataTable([
-         ['Month', 'Systems Administration', 'Virtualization', 'Networking', 'cli', 'git', 'Ave. Sys Admin', 'Ave. Virtualization', 'Ave. Networking', 'Ave. cli', 'Ave. git', 'Average Aggregate Experience'],
-         ['2011/01',  60,                    25,                52,           40,    0,     60,               25,                   52,                40,          0,          22.36],
-         ['2014/05',  70,                    45,                64,           75,    20,    65,               35,                   52,                58,          10,            54.8],
-         ['2015/09',  80,                    70,                78,           85,    65,    70,               46.66,                64.66,             66.66,       28.33,            75.6],
+        var data1 = google.visualization.arrayToDataTable([
+         ['Month', 'Systems Administration', 'Virtualization', 'Networking', 'cli', 'git', 'Average Aggregate Experience'],
+         ['2011/01',  60,                    25,                52,           40,    0,     22.36],
+         ['2014/05',  70,                    45,                64,           75,    20,    54.8],
+         ['2015/09',  80,                    70,                78,           85,    65,    75.6],
+
+
+
+        // Some raw data (not necessarily accurate)
+        var data2 = google.visualization.arrayToDataTable([
+         ['Month', 'Ave. Sys Admin', 'Ave. Virtualization', 'Ave. Networking', 'Ave. cli', 'Ave. git', 'Average Aggregate Experience'],
+         ['2011/01',  60,               25,                   52,                40,          0,          22.36],
+         ['2014/05',  65,               35,                   52,                58,          10,            54.8],
+         ['2015/09',  70,               46.66,                64.66,             66.66,       28.33,            75.6],
       ]);
+
+
+
 
     var options = {
       title : 'Skills Expertise',
@@ -25,14 +37,10 @@
         easing: 'linear',
       },
       series: {5: {type: 'line'}}
-      series: {6: {type: 'line'}}
-      series: {7: {type: 'line'}}
-      series: {8: {type: 'line'}}
-      series: {9: {type: 'line'}}
     };
 
     var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
-    chart.draw(data, options);
+    chart.draw(data1, options);
   }
     </script>
   </head>
