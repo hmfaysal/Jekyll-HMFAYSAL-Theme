@@ -32,7 +32,7 @@ Your debts are cheetahs that are looking for lunch. They want to eat up your foc
 My wife and I stuck to a written budget and, after graduation, sent nearly 1/3rd of our household income to our "debt snowball". Every dollar we could squeeze out of our expenses was saved and sent towards paying off the debt that had piled up.
 
 ![Gazelle Intensity]({{ site.url }}/images/Cheetah_3.jpg)
-{: .pull-left}
+{: .pull-right}
 
 # Financial Peace &#58;
 Financial peace can be summed up into one word : Freedom.
