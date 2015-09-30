@@ -15,7 +15,7 @@ comments: true
 
 # A Life In Chains &#58;
 The borrower is slave to the lender.
-The road to freedom is a challenge to say the least.
+The road to financial freedom is a challenge to say the least.
 
 ![The Borrower]({{ site.url }}/images/proverbs22-7.jpg)
 {: .pull-right}
