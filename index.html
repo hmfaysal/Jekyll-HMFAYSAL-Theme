@@ -7,8 +7,8 @@ tags: [Jim, Howk, Tireless, Wake]
 ---
 
 <ul class="post-list">
-{% for post in paginator.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}"><i class="icon-pencil"></i> {{ post.title }} <span class="entry-date">Posted in {{ post.categories | join: ', ' | capitalize }}&nbsp;&bull;&nbsp;<i class="icon-time"></i> {{ post.content.size | readtime | pluralize: "minute" }}  read</span></a></article></li>
+{% for post in paginator.posts limit:10 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}"><i class="icon-pencil"></i> {{ post.title }} <span class="entry-date">Posted in {{ post.categories | join: ', ' | capitalize }}&nbsp;&bull;&nbsp;<i class="icon-time"></i> {{ post.content.size | divided_by:1507 }}  minute read</span></a></article></li>
   <p>{{ post.content | strip_html | truncatewords:40 }}&nbsp;<a href="{{ post.url }}"> Read more...</a></p>
 {% endfor %}
 <br>
@@ -21,9 +21,9 @@ tags: [Jim, Howk, Tireless, Wake]
      <a href="/page{{ paginator.previous_page }}/" class="btn" title="Newer Posts">&laquo; Newer Posts</a>
       {% endif %}
     {% endif %}
-    {% if paginator.next_page %} 
+    {% if paginator.next_page %}
     <a href="/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &raquo;</a>
-    {% endif %} 
+    {% endif %}
   </nav>
 Page: {{ paginator.page }} of {{ paginator.total_pages }}
 

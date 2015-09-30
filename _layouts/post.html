@@ -24,7 +24,7 @@
                    autoNumber: "AMS",
                 },
                 unicode: {
-                   fonts: "STIXGeneral,'Arial Unicode MS'" 
+                   fonts: "STIXGeneral,'Arial Unicode MS'"
                 }
             },
             showProcessingMessages: false
@@ -47,7 +47,7 @@
         {% else %}
           <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
         {% endif %}
-        <p><i class="icon-time"></i> {{ content.size | readtime | pluralize: "minute" }} read&nbsp;&bull;&nbsp;<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="icon-calendar"></i> {{ page.date | date: "%B %d, %Y" }}</time>&nbsp;&bull;&nbsp;<i class="icon-th-list"></i> Posted in <a href="{{ site.url }}/categories/index.html#{{ page.categories | cgi_encode }}" title="Other posts from the {{ page.categories }} category" rel="tag">{{ page.categories | join: ', ' | capitalize }}</a>&nbsp;&bull;&nbsp;<i class="icon-share"></i><a href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true"> Share</a>
+        <p><i class="icon-time"></i> {{ content.size | divided_by:1507 }} minute read&nbsp;&bull;&nbsp;<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="icon-calendar"></i> {{ page.date | date: "%B %d, %Y" }}</time>&nbsp;&bull;&nbsp;<i class="icon-th-list"></i> Posted in <a href="{{ site.url }}/categories/index.html#{{ page.categories | cgi_encode }}" title="Other posts from the {{ page.categories }} category" rel="tag">{{ page.categories | join: ', ' | capitalize }}</a>&nbsp;&bull;&nbsp;<i class="icon-share"></i><a href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true"> Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
       </header>
       <br>
@@ -74,7 +74,7 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}	        
+{% include scripts.html %}
 
 </body>
 </html>
