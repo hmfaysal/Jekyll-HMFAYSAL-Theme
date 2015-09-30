@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debt Free
-published: false
+published: true
 description: "Overcoming Debt. Entering into Financial Freedom."
 modified: 2015-10-1
 category: articles
