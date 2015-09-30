@@ -23,7 +23,7 @@ I am a Computer Systems Engineer amongst other things. I graduated with a B.S. d
 This website was built with Jekyll, lots of elbow-grease, smarts, and hard work.  
 
 <figure>
-	<a href="../images/tuxninja.png"><img src="../images/tuxninja.png"></a>
+	<img src="../images/tuxninja.png">
 </figure>
 
 <a markdown="0" href="{{ site.url }}/technical-details" class="btn">Technical Details</a> <a markdown="0" href="{{ site.url }}" class="btn">Check out my blog</a>
