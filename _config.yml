@@ -50,6 +50,7 @@ links:
     external: true
   - title: Blog
     url: http://dev.tirelessake.com/wordpress
+    external: true
   - title: About
     url: /about
 
