@@ -2733,6 +2733,7 @@ body {
 
 #main {
     *zoom: 1;
+    background-color: #fdf6e3
 }
 
 #main:after,#main:before {
