@@ -37,7 +37,7 @@ My wife and I stuck to a written budget and, after graduation, sent nearly 1/3rd
 # Financial Peace &#58;
 Financial peace can be summed up into one word : Freedom.
 
-On October 1, 2015 we wrote a check to pay off the balance in full of our last debt owed.
+On October 1, 2015 we wrote a check to pay off the balance-in-full of our last debt owed.
 Thus freeing us from the chains of bondage of debt, forever changing our family tree, and setting us on the path to true financial peace and freedom.
 
 # The Key &#58;
