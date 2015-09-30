@@ -5,7 +5,7 @@ published: true
 description: "Overcoming Debt. Entering into Financial Freedom."
 modified: 2015-10-1
 category: articles
-tags: [debt free fpu dave ramsey loan loans student]
+tags: [debt free, financial peace, Dave Ramsey, student loans]
 image:
   feature: JimSuzi-2-DaveRamseyDesMoines2013.jpg
   credit: Jim Howk
