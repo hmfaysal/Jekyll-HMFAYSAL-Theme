@@ -20,7 +20,7 @@ Somewhere along the way my dreams, passions, and goals, and persons of influence
 
 These loans along with a few other debts would turn into one of the biggest hurdles I have faced as of yet. These debts started as small chains around my ankles and ended up turning into figurative shackles. Debt is sneaky and slowly creeps into every corner of your life. It challenges your finances which in turn affects every aspect of your life including emotions, stress levels, opportunities, travel, etc. The monthly repayment notices start feeling like a pet, like they just won't go away.
 
-![The Borrower]({{ site.url }}../images/proverbs22-7.jpg)
+![The Borrower]({{ site.url }}/images/proverbs22-7.jpg)
 {: .pull-right}
 
 # Getting Gazelle Intense
@@ -31,7 +31,7 @@ Your debts are cheetahs that are looking for lunch. They want to eat up your foc
 My wife and I stuck to a written budget and, after graduation, sent nearly 1/3rd of our household income to our "debt snowball". Every dollar we could squeeze out of our expenses was saved and sent towards paying off the debt that had piled up.
 
 <figure>
-	<a href="Cheetah_3.jpg"><img src="Cheetah_3.jpg"></a>
+	<a href="../images/Cheetah_3.jpg"><img src="../images/Cheetah_3.jpg"></a>
 	<figcaption><a href="http://blueatoll.com/" title="Gazelle vs Cheetah">Gazelle vs Cheetah</a>.</figcaption>
 </figure>
 
