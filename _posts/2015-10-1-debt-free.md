@@ -20,7 +20,8 @@ Somewhere along the way my dreams, passions, and goals, and persons of influence
 
 These loans along with a few other debts would turn into one of the biggest hurdles I have faced as of yet. These debts started as small chains around my ankles and ended up turning into figurative shackles. Debt is sneaky and slowly creeps into every corner of your life. It challenges your finances which in turn affects every aspect of your life including emotions, stress levels, opportunities, travel, etc. The monthly repayment notices start feeling like a pet, like they just won't go away.
 
-<img src="../images/proverbs22-7.jpg">
+![The Borrower]({{ site.url }}../images/proverbs22-7.jpg)
+{: .pull-right}
 
 # Getting Gazelle Intense
 You have to face them head on.
