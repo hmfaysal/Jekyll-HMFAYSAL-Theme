@@ -26,14 +26,16 @@ In my case, I want to automatically generate and display how long a post will ta
 On the page &#58;
 
 {% raw %}
+<code>
 ...
 <i class="icon-time"></i> {{ post.content.size | readtime | pluralize: "minute" }}  read</span>
 ...
 {% endraw %}
-
+</code>
 
 read-time.rb &#58;
 ~~~ ruby
+<code>
 module ReadTimeFilter
 	def readtime(input)
 		charcount = 4.5
@@ -44,10 +46,12 @@ module ReadTimeFilter
 	end
 	Liquid::Template.register_filter self
 end
+</code>
 ~~~
 
 pluralize.rb &#58;
 ~~~ ruby
+<code>
 module Jekyll
 	module Pluralize
 		def pluralize(number, singular, plural=nil)
@@ -59,10 +63,10 @@ module Jekyll
 				"#{number} #{plural}"
 			end
 		end
-
 	end
 end
 Liquid::Template.register_filter(Jekyll::Pluralize)
+</code>
 ~~~
 
 # The Solution
@@ -71,11 +75,12 @@ As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jek
 On the page &#58;
 
 {% raw %}
+<code>
 ...
 <i class="icon-time"></i> {{ post.content.size | divided_by:1507 }}  minute read</span>
 ...
 {% endraw %}
-
+</code>
 
 # Other Useful Tidbits &#58;
 <a>http://jekyllrb.com/docs/templates/</a>
