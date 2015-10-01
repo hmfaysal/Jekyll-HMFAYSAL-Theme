@@ -36,20 +36,14 @@ On the page &#58;
 read-time.rb &#58;
 {% raw %}
 module ReadTimeFilter
-
 	def readtime(input)
-
 		charcount = 4.5
 		wpm = 335
-
 		rt = (input.to_f/charcount/wpm).round
 		rt = 1 if rt < 1
 		rt
-
 	end
-
 	Liquid::Template.register_filter self
-
 end
 {% endraw %}
 
@@ -57,7 +51,6 @@ pluralize.rb &#58;
 {% raw %}
 module Jekyll
 	module Pluralize
-
 		def pluralize(number, singular, plural=nil)
 			if number == 1
 				"#{number} #{singular}"
@@ -70,7 +63,6 @@ module Jekyll
 
 	end
 end
-
 Liquid::Template.register_filter(Jekyll::Pluralize)
 {% endraw %}
 
