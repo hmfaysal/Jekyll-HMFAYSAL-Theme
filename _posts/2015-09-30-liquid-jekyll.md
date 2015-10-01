@@ -27,14 +27,16 @@ When you don't pre-build your site and rely on Github Pages to take your code an
 In my case, I want to automatically generate and display how long a post will take an average person to read. The original setup of this Jekyll theme used the following Jekyll Modules to compute the time and display the value.
 
 On the page &#58;
+~~~ html
 {% raw %}
 ...
 <i class="icon-time"></i> {{ post.content.size | readtime | pluralize: "minute" }}  read</span>
 ...
 {% endraw %}
+~~~
 
 read-time.rb &#58;
-{% raw %}
+~~~ ruby
 module ReadTimeFilter
 	def readtime(input)
 		charcount = 4.5
@@ -45,10 +47,10 @@ module ReadTimeFilter
 	end
 	Liquid::Template.register_filter self
 end
-{% endraw %}
+~~~
 
 pluralize.rb &#58;
-{% raw %}
+~~~ ruby
 module Jekyll
 	module Pluralize
 		def pluralize(number, singular, plural=nil)
@@ -64,17 +66,19 @@ module Jekyll
 	end
 end
 Liquid::Template.register_filter(Jekyll::Pluralize)
-{% endraw %}
+~~~
 
 # The Solution
 As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jekyll-on-github-pages/</a> , if you are using Liquid templating in your Jekyll build, you can use "Liquid Tags" to achieve a fair amount of logic using inline tags instead of ruby scripts.
 
 On the page &#58;
+~~~ html
 {% raw %}
 ...
 <i class="icon-time"></i> {{ post.content.size | divided_by:1507 }}  minute read</span>
 ...
 {% endraw %}
+~~~
 
 # Other Useful Tidbits &#58;
 <a>http://jekyllrb.com/docs/templates/</a>
