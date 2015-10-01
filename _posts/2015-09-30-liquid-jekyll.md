@@ -15,9 +15,6 @@ comments: true
 
 # Liquid Jekyll - Finding Time &#58;
 
-![Time]<i class="icon-time"></i>
-{: .pull-right}
-
 The Jekyll template this site is based on originally used Jekyll modules to estimate blog post read times. This works great when you are hosting your site using "jekyll serve". Any Jekyll Modules within the _plugins folder can be used to build your site. These ruby-based modules are usually simple to write and work well most of the time.
 
 # The Problem &#58;
