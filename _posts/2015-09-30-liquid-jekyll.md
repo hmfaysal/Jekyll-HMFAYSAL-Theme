@@ -24,11 +24,10 @@ When you don't pre-build your site and rely on Github Pages to take your code an
 In my case, I want to automatically generate and display how long a post will take an average person to read. The original setup of this Jekyll theme used the following Jekyll Modules to compute the time and display the value.
 
 On the page &#58;
-<code>
+<code>{
 ...
 <i class="icon-time"></i> {{ post.content.size | readtime | pluralize: "minute" }}  read</span>
-...
-</code>
+...}</code>
 
 read-time.rb &#58;
 <code>
