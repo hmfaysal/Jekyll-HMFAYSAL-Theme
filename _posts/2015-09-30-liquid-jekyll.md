@@ -68,9 +68,11 @@ As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jek
 
 On the page &#58;
 
+<code class="html">
 ~~~
 {{post.content.size | divided_by:1507}}
 ~~~
+</code>
 
 # Other Useful Tidbits &#58;
 <a>http://jekyllrb.com/docs/templates/</a>
