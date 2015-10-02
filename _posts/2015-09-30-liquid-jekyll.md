@@ -67,8 +67,10 @@ Liquid::Template.register_filter(Jekyll::Pluralize)
 As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jekyll-on-github-pages/</a> , if you are using Liquid templating in your Jekyll build, you can use "Liquid Tags" to achieve a fair amount of logic using inline tags instead of ruby scripts.
 
 On the page &#58;
-{{ "{{ post.content.size | divided_by:1507 }}}}
 
+~~~
+{{ post.content.size | divided_by:1507 }}
+~~~
 
 # Other Useful Tidbits &#58;
 <a>http://jekyllrb.com/docs/templates/</a>
