@@ -18,16 +18,20 @@ comments: true
 The Jekyll template this site is based on originally used Jekyll modules to estimate blog post read times. This works great when you are hosting your site using \"jekyll serve\". Any Jekyll Modules within the \_plugins folder can be used to build your site. These ruby-based modules are usually simple to write and work well most of the time.
 
 # The Problem &#58;
-When you don't pre-build your site and rely on Github Pages to take your code and turn it into your \_site , you end up with a few added restrictions. The biggest of these is Github Pages runs Jekyll with the --safe flag, which inherently disables any 3rd-party modules. This means your lovely \_plugins folder gets ignored.
+When you don't pre-build your site and rely on Github Pages to take your code and turn it into your \_site , you end up with a few added restrictions. The biggest of these is Github Pages runs Jekyll with the \-\-safe flag, which inherently disables any 3rd-party modules. This means your lovely \_plugins folder gets ignored.
 <a>http://jekyllrb.com/docs/plugins/</a>
 
 In my case, I want to automatically generate and display how long a post will take an average person to read. The original setup of this Jekyll theme used the following Jekyll Modules to compute the time and display the value.
 
 On the page &#58;
-{{ "{{ post.content.size | readtime | pluralize: "minute" }}}}
+
+~~~
+{{ post.content.size | readtime | pluralize: "minute" }}
+~~~
 
 read-time.rb &#58;
-<code>
+
+~~~
 module ReadTimeFilter
 	def readtime(input)
 		charcount = 4.5
@@ -38,10 +42,11 @@ module ReadTimeFilter
 	end
 	Liquid::Template.register_filter self
 end
-</code>
+~~~
 
 pluralize.rb &#58;
-<code>
+
+~~~
 module Jekyll
 	module Pluralize
 		def pluralize(number, singular, plural=nil)
@@ -56,7 +61,7 @@ module Jekyll
 	end
 end
 Liquid::Template.register_filter(Jekyll::Pluralize)
-</code>
+~~~
 
 # The Solution
 As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jekyll-on-github-pages/</a> , if you are using Liquid templating in your Jekyll build, you can use "Liquid Tags" to achieve a fair amount of logic using inline tags instead of ruby scripts.
