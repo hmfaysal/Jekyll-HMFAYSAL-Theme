@@ -26,7 +26,7 @@ In my case, I want to automatically generate and display how long a post will ta
 On the page &#58;
 
 ~~~
-{{ post.content.size | readtime | pluralize: "minute" }}
+{{post.content.size | readtime | pluralize: "minute" }}
 ~~~
 
 read-time.rb &#58;
@@ -69,7 +69,7 @@ As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jek
 On the page &#58;
 
 ~~~
-{{ post.content.size | divided_by:1507 }}
+{{post.content.size | divided_by:1507}}
 ~~~
 
 # Other Useful Tidbits &#58;
