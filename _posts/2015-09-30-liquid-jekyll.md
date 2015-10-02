@@ -15,10 +15,10 @@ comments: true
 
 # Liquid Jekyll - Finding Time &#58;
 
-The Jekyll template this site is based on originally used Jekyll modules to estimate blog post read times. This works great when you are hosting your site using \"jekyll serve\". Any Jekyll Modules within the _plugins folder can be used to build your site. These ruby-based modules are usually simple to write and work well most of the time.
+The Jekyll template this site is based on originally used Jekyll modules to estimate blog post read times. This works great when you are hosting your site using \"jekyll serve\". Any Jekyll Modules within the \_plugins folder can be used to build your site. These ruby-based modules are usually simple to write and work well most of the time.
 
 # The Problem &#58;
-When you don't pre-build your site and rely on Github Pages to take your code and turn it into your _site , you end up with a few added restrictions. The biggest of these is Github Pages runs Jekyll with the --safe flag, which inherently disables any 3rd-party modules. This means your lovely _plugins folder gets ignored.
+When you don't pre-build your site and rely on Github Pages to take your code and turn it into your \_site , you end up with a few added restrictions. The biggest of these is Github Pages runs Jekyll with the --safe flag, which inherently disables any 3rd-party modules. This means your lovely \_plugins folder gets ignored.
 <a>http://jekyllrb.com/docs/plugins/</a>
 
 In my case, I want to automatically generate and display how long a post will take an average person to read. The original setup of this Jekyll theme used the following Jekyll Modules to compute the time and display the value.
