@@ -25,9 +25,11 @@ In my case, I want to automatically generate and display how long a post will ta
 
 On the page &#58;
 
+{% raw %}
 ~~~
 {{post.content.size | readtime | pluralize: "minute" }}
 ~~~
+{% endraw %}
 
 read-time.rb &#58;
 
@@ -68,11 +70,11 @@ As found on <a>http://milanaryal.com/2015/knowing-the-site-generated-time-by-jek
 
 On the page &#58;
 
-<code class="html">
+{% raw %}
 ~~~
 {{post.content.size | divided_by:1507}}
 ~~~
-</code>
+{% endraw %}
 
 # Other Useful Tidbits &#58;
 <a>http://jekyllrb.com/docs/templates/</a>
