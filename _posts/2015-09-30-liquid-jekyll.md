@@ -27,7 +27,7 @@ On the page &#58;
 
 {% raw %}
 ~~~
-{{ post.content.size | readtime | pluralize: "minute" }}
+{{ post.content.size | readtime | pluralize: "minute" }} read
 ~~~
 {% endraw %}
 
@@ -72,7 +72,7 @@ On the page &#58;
 
 {% raw %}
 ~~~
-{{ post.content.size | divided_by:1507 }}
+{{ post.content.size | divided_by:1507 }}  minute read
 ~~~
 {% endraw %}
 
