@@ -7,7 +7,7 @@ modified: 2015-10-20
 category: articles
 tags: [dreams, goals, reality]
 image:
-  feature: dreamer.jpg
+  feature: lost.jpg
   credit: Jim Howk
   creditlink: http://jimhowk.com
 comments: true  
