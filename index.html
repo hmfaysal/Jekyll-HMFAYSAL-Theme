@@ -6,6 +6,12 @@ headline: Greetings
 tags: [Jim, Howk, Tireless, Wake]
 ---
 
+<style>
+  .cn-button {
+    margin-top: -5em;
+  }
+</style>
+
 <ul class="post-list">
 {% for post in paginator.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><i class="icon-pencil"></i> {{ post.title }} <span class="entry-date">Posted in {{ post.categories | join: ', ' | capitalize }}&nbsp;&bull;&nbsp;<i class="icon-time"></i> {{ post.content.size | divided_by:1507 }}  minute read</span></a></article></li>

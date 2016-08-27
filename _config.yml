@@ -4,7 +4,8 @@ logo:             site-logo.png
 disqus_shortname:
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://jimhowk.com
+#url:              http://jimhowk.com
+url:
 #cdn:			  http://cdn.localhost:4000
 
 # Owner/author information
@@ -45,14 +46,18 @@ links:
   - title: Home
     url: /
     external: false
+  - title: Baby Registry
+    url: /babyregistry
+  - title: About Me
+    url: /about
   - title: Tireless Wake
     url: http://tirelesswake.com
     external: true
   - title: Tireless Blog
     url: http://dev.tirelesswake.com/wordpress
     external: true
-  - title: About Me
-    url: /about
+
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
