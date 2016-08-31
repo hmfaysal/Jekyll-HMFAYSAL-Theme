@@ -33,7 +33,7 @@ Thank you!
 
 ---
 
-Cast your vote!:
+> Cast your vote!:
 
 ![]({{ site.url }}/images/baby/baby12.jpg) ![]({{ site.url }}/images/baby/baby11.jpg)
 <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=57c650e1e4b06f1c7ffff8a2"></script><a class="OPP-powered-by" href="http://trailguide.net" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">bike trail guide</div></a>
