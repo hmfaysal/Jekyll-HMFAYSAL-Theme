@@ -18,7 +18,7 @@ modified: 2016-08-27
 ![invite]({{ site.url }}/images/frontcardfence.png)
 
 
-Celebrate with **Jim and Suzi Howk** with our personal baby registry!
+> Celebrate with **Jim and Suzi Howk** with our personal baby registry!
 
 Thank you!
 
@@ -40,7 +40,7 @@ Thank you!
 
 ---
 
-Here is the list...
+> Here is the list...  
 or visit one of our registries below / throughout this page:
 
 * ![https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0](https://images-na.ssl-images-amazon.com/images/G/01/baby/registry/aui/baby-reg-logo._CB299121382_.png) [Amazon.com baby registry](https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0)
@@ -96,7 +96,7 @@ or visit one of our registries below / throughout this page:
 
 ---
 
-Fun Ideas! :
+> Fun Ideas! :
 
 Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.thinkgeek.com/geek-kids/newborn-infant/) or [Jinx baby](https://www.jinx.com/shop/cat/clothing/g/baby/) would be awesome!
 
@@ -134,7 +134,7 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 
 ---
 
-Thanks and see you soon!
+> Thanks and see you soon!
 
 -- Jim and Suzi
 
