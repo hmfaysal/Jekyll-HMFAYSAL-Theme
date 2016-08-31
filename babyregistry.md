@@ -31,9 +31,10 @@ Cast your vote!:
 
 ---
 
-Here is the list... or visit one of our registries below:
+Here is the list...
+or visit one of our registries below / throughout this page:
 
-* [Amazon.com baby registry](https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0)
+* ![https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0](https://images-na.ssl-images-amazon.com/images/G/01/baby/registry/aui/baby-reg-logo._CB299121382_.png) [Amazon.com baby registry](https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0)
 
 * 10 Cloth Diapers
 * 2 package disposable diapers
@@ -92,10 +93,7 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 
 <br>
 
-![http://www.thinkgeek.com/product/inmk/]({{ site.url }}/images/baby/baby0.jpg)  
 
-[http://www.thinkgeek.com/product/inmk/](http://www.thinkgeek.com/product/inmk/)  
-<br>
 
 ![]({{ site.url }}/images/baby/baby1.jpg)
 ![]({{ site.url }}/images/baby/baby2.jpg)
@@ -113,6 +111,13 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 ![]({{ site.url }}/images/baby/baby14.jpg)
 ![]({{ site.url }}/images/baby/baby16.jpg)
 ![]({{ site.url }}/images/baby/baby17.jpg)
+
+<br>
+
+![http://www.thinkgeek.com/product/inmk/]({{ site.url }}/images/baby/baby0.jpg)  
+
+[http://www.thinkgeek.com/product/inmk/](http://www.thinkgeek.com/product/inmk/)  
+<br>
 
 ---
 
