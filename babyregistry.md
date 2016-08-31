@@ -124,15 +124,25 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 ![]({{ site.url }}/images/baby/baby14.jpg)
 ![]({{ site.url }}/images/baby/baby16.jpg)
 ![]({{ site.url }}/images/baby/baby17.jpg)
+![]({{ site.url }}/images/baby/baby20.jpg)
 
 <br>
 
 ![http://www.thinkgeek.com/product/inmk/]({{ site.url }}/images/baby/baby0.jpg)  
 
 [http://www.thinkgeek.com/product/inmk/](http://www.thinkgeek.com/product/inmk/)  
+
+<br>
+<br>
 <br>
 
+
 ---
+
+<br>
+<br>
+
+![]({{ site.url }}/images/baby/baby21.jpg)
 
 > Thanks and see you soon!
 
