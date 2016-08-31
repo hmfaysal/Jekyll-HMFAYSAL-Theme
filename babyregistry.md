@@ -20,13 +20,16 @@ modified: 2016-08-27
 
 Celebrate with **Jim and Suzi Howk** with our personal baby registry!
 
-> please check back in a couple hours for more updates...
-> (Jim needs some more time to update this page after his laptop broke this week)...
-
-Here is a simplified list until we get things back up on the website :
-
-
 Thank you!
+
+---
+
+Cast your vote!:
+
+![]({{ site.url }}/images/baby/baby12.jpg) ![]({{ site.url }}/images/baby/baby11.jpg)
+<script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=57c650e1e4b06f1c7ffff8a2"></script><a class="OPP-powered-by" href="http://trailguide.net" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">bike trail guide</div></a>
+
+---
 
 Here is the list:
 
@@ -78,6 +81,43 @@ Here is the list:
 * Bowls with lids
 * Plates
 
+
+---
+
+Fun Ideas! :
+
+Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.thinkgeek.com/geek-kids/newborn-infant/) or [Jinx baby](https://www.jinx.com/shop/cat/clothing/g/baby/) would be awesome!
+
+<br>
+
+![http://www.thinkgeek.com/product/inmk/]({{ site.url }}/images/baby/baby0.jpg)  
+
+[http://www.thinkgeek.com/product/inmk/](http://www.thinkgeek.com/product/inmk/)  
+<br>
+
+![]({{ site.url }}/images/baby/baby1.jpg)
+![]({{ site.url }}/images/baby/baby2.jpg)
+![]({{ site.url }}/images/baby/baby3.jpg)
+![]({{ site.url }}/images/baby/baby4.jpg)
+![]({{ site.url }}/images/baby/baby5.jpg)
+![]({{ site.url }}/images/baby/baby6.jpg)
+![]({{ site.url }}/images/baby/baby7.jpg)
+![]({{ site.url }}/images/baby/baby8.jpg)
+![]({{ site.url }}/images/baby/baby9.jpg)
+![]({{ site.url }}/images/baby/baby10.jpg)
+![]({{ site.url }}/images/baby/baby11.jpg)
+![]({{ site.url }}/images/baby/baby12.jpg)
+![]({{ site.url }}/images/baby/baby13.jpg)
+![]({{ site.url }}/images/baby/baby14.jpg)
+![]({{ site.url }}/images/baby/baby15.jpg)
+![]({{ site.url }}/images/baby/baby16.jpg)
+![]({{ site.url }}/images/baby/baby17.jpg)
+
+---
+
+Thanks and see you soon!
+
+-- Jim and Suzi
 
 <figure>
 	<img src="../images/tuxninja.png">
