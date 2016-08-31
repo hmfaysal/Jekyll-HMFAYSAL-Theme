@@ -100,10 +100,14 @@ Fun Ideas! :
 
 Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.thinkgeek.com/geek-kids/newborn-infant/) or [Jinx baby](https://www.jinx.com/shop/cat/clothing/g/baby/) would be awesome!
 
+[http://www.homesandhues.com/The-Best-Geek-Themed-Baby-Nurseries-And-Nursery-Decorations/](http://www.homesandhues.com/The-Best-Geek-Themed-Baby-Nurseries-And-Nursery-Decorations/)
+
 <br>
 
+<br>
 
-
+![]({{ site.url }}/images/baby/baby18.jpg)
+![]({{ site.url }}/images/baby/baby15.jpg)
 ![]({{ site.url }}/images/baby/baby1.jpg)
 ![]({{ site.url }}/images/baby/baby2.jpg)
 ![]({{ site.url }}/images/baby/baby3.jpg)
