@@ -31,7 +31,9 @@ Cast your vote!:
 
 ---
 
-Here is the list:
+Here is the list... or visit one of our registries below:
+
+* [Amazon.com baby registry](https://www.amazon.com/gp/baby-reg/jim-howk-suzi-howk-november-2016-slater?lid=3L5CMGJH664D0)
 
 * 10 Cloth Diapers
 * 2 package disposable diapers
@@ -109,7 +111,6 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 ![]({{ site.url }}/images/baby/baby12.jpg)
 ![]({{ site.url }}/images/baby/baby13.jpg)
 ![]({{ site.url }}/images/baby/baby14.jpg)
-![]({{ site.url }}/images/baby/baby15.jpg)
 ![]({{ site.url }}/images/baby/baby16.jpg)
 ![]({{ site.url }}/images/baby/baby17.jpg)
 
