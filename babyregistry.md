@@ -17,6 +17,10 @@ modified: 2016-08-27
 
 ![invite]({{ site.url }}/images/frontcardfence.png)
 
+<br>
+
+![invite]({{ site.url }}/images/BabyShower-Owl-Front.png)
+
 
 > Celebrate with **Jim and Suzi Howk** with our personal baby registry!
 
@@ -25,8 +29,12 @@ Thank you!
 ---
 
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1505782" frameborder="0"></iframe>
+<iframe width="350" height="180" src="https://w2.countingdownto.com/1523399" frameborder="0"></iframe>
+
+<br>
 
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1505786" frameborder="0"></iframe>
+
 
 (yes, I know the countdown says "demo"... I'm working on improvements, but I gotta sleep sometime before baby arrives, right?! )  
 (please check back later today or tomorrow!)
