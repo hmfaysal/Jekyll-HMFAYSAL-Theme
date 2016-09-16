@@ -64,6 +64,7 @@ or visit one of our registries below / throughout this page:
 * Baby Toys
 * Stroller
 * Carrier
+* Crib mattress
 * 2 mattress liners
 * 3 sets crib sheets
 * 2-4 stretchy hats
@@ -77,7 +78,7 @@ or visit one of our registries below / throughout this page:
 * Blankets
 * Diaper pail liners (Cloth)
 * Diaper pail
-* Changing pad
+* ~~Changing pad~~
 * 2 changing table pad covers
 * 2 changing table waterproof liners
 * Diaper Cream
@@ -94,8 +95,9 @@ or visit one of our registries below / throughout this page:
 * 2 Baby Towels
 * 10 washcloths
 * Nipple Cream
-* Nursing Bras
+* ~~Nursing Bras~~
 * Breast Milk storage bags/bottles
+* ~~Breast Milk storage bottles~~
 * 2 Sippy Cups
 * Spoons and Forks
 * Bowls with lids
