@@ -112,8 +112,6 @@ Anything from [http://www.thinkgeek.com/geek-kids/newborn-infant/](http://www.th
 
 [http://www.homesandhues.com/The-Best-Geek-Themed-Baby-Nurseries-And-Nursery-Decorations/](http://www.homesandhues.com/The-Best-Geek-Themed-Baby-Nurseries-And-Nursery-Decorations/)
 
-<br>
-
 ![]({{ site.url }}/images/baby/baby16.jpg)
 ![]({{ site.url }}/images/baby/baby18.jpg)
 ![]({{ site.url }}/images/baby/baby15.jpg)
