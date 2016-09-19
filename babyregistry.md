@@ -31,14 +31,10 @@ Thank you!
 <br>
 
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1523399" frameborder="0"></iframe>
-
-<br>
-
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1505786" frameborder="0"></iframe>
 
-
-(yes, I know the countdown says "demo"... I'm working on improvements, but I gotta sleep sometime before baby arrives, right?! )  
-(please check back later today or tomorrow!)
+This site is updated regularly!
+(please check back later!)
 
 ---
 
