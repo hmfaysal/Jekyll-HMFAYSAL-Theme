@@ -75,7 +75,7 @@ or visit one of our registries below / throughout this page:
 * 5-7 onesie pjs
 * 4-6 pairs socks
 * ~~3 swaddlers~~
-* Sleep sack
+* ~~Sleep sack~~
 * Blankets
 * Diaper pail liners (Cloth)
 * Diaper pail
