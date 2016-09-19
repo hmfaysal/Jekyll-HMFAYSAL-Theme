@@ -5,8 +5,9 @@ title: Baby Registry
 description: Baby, Registry
 headline: Baby Registry
 tags: [Jim, Howk, baby, registry]
-modified: 2016-08-27
-
+modified: 2016-09-19
+image:
+  feature: ./images/baby/banner1.jpg
 ---
 
 <style>
