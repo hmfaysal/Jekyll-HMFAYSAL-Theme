@@ -99,7 +99,7 @@ or visit one of our registries below / throughout this page:
 * Plates
 
 * Thanks Aunt Lolly for the hand-made Yoda Hat! It turned out just like the 'idea section picture'!... now to find the rest of the hero's before the due date:
-![]({{ site.url }}/images/baby/baby16.jpg)
+![]({{ site.url }}/images/baby/baby22.jpg)
 
 ---
 
