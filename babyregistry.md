@@ -24,7 +24,6 @@ modified: 2016-09-19
 Thank you!
 
 ---
-<br>
 
 ![invite]({{ site.url }}/images/BabyShower-Owl-Front.png)
 
