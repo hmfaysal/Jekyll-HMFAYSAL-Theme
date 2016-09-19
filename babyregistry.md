@@ -28,8 +28,6 @@ Thank you!
 
 ![invite]({{ site.url }}/images/BabyShower-Owl-Front.png)
 
-<br>
-
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1523399" frameborder="0"></iframe>
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1505786" frameborder="0"></iframe>
 
