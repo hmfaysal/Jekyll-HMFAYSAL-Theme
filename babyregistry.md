@@ -6,8 +6,7 @@ description: Baby, Registry
 headline: Baby Registry
 tags: [Jim, Howk, baby, registry]
 modified: 2016-09-19
-image:
-  feature: baby/banner1.jpg
+
 ---
 
 <style>
@@ -16,6 +15,9 @@ image:
   }
 </style>
 
+<br>
+<br>
+<br>
 
 > Celebrate with **Jim and Suzi Howk** with our personal baby registry!
 
