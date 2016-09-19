@@ -7,7 +7,7 @@ headline: Baby Registry
 tags: [Jim, Howk, baby, registry]
 modified: 2016-09-19
 image:
-  feature: ./images/baby/banner1.jpg
+  feature: {{ site.url }}/images/baby/banner1.jpg
 ---
 
 <style>
