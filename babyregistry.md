@@ -99,7 +99,7 @@ or visit one of our registries below / throughout this page:
 * ~~Baby Nail Clippers~~
 * ~~Forehead thermometer~~
 * ~~2 Baby Towels~~
-* ~~10 washcloths
+* ~~10 washcloths~~
 * ~~Nursing Bras~~
 * ~~Breast Milk storage bottles~~
 * ~~Spoons and Forks~~
