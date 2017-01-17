@@ -27,7 +27,6 @@ Thank you!
 
 ![invite]({{ site.url }}/images/BabyShower-Owl-Front.png)
 
-<iframe width="350" height="180" src="https://w2.countingdownto.com/1523399" frameborder="0"></iframe>
 <iframe width="350" height="180" src="https://w2.countingdownto.com/1505786" frameborder="0"></iframe>
 
 This site is updated regularly!
@@ -53,55 +52,57 @@ or visit one of our registries below / throughout this page:
 ![]({{ site.url }}/images/baby/baby22.png)
 
 
-* ~~10 Cloth Diapers~~
-* 2 package disposable diapers
-* Baby Wipes
-* Boppy nursing pillow
 * Bibs
-* Burp cloths
-* Swing
-* Books
-* Baby Toys
 * Stroller
 * Carrier
-* Crib mattress
 * 2 mattress liners
 * 3 sets crib sheets
 * 2-4 stretchy hats
-* 4 shirts
-* 4-6 onesies
 * 3-4 pants
-* 5-7 onesie pjs
 * 4-6 pairs socks
-* ~~3 swaddlers~~
-* ~~Sleep sack~~
-* Blankets
 * Diaper pail liners (Cloth)
 * Diaper pail
-* ~~Changing pad~~
 * 2 changing table pad covers
 * 2 changing table waterproof liners
 * Diaper Cream
-* Baby Bathtub
-* Baby Soap
-* Baby Shampoo
-* Baby oil
-* ~~Nose Syringe~~
-* ~~Baby Nail Clippers~~
-* ~~Forehead thermometer~~
 * Baby Benadryl
 * Baby Sunscreen
 * Baby Comb
-* 2 Baby Towels
-* 10 washcloths
 * Nipple Cream
-* ~~Nursing Bras~~
 * Breast Milk storage bags/bottles
-* ~~Breast Milk storage bottles~~
 * 2 Sippy Cups
-* Spoons and Forks
 * Bowls with lids
 * Plates
+
+
+* ~~10 Cloth Diapers~~
+* ~~2 package disposable diapers~~
+* ~~Baby Wipes~~
+* ~~Boppy nursing pillow~~
+* ~~Burp cloths~~
+* ~~Swing~~
+* ~~Books~~
+* ~~Baby Toys~~
+* ~~Crib mattress~~
+* ~~4 shirts~~
+* ~~4-6 onesies~~
+* ~~5-7 onesie pjs~~
+* ~~3 swaddlers~~
+* ~~Sleep sack~~
+* ~~Blankets~~
+* ~~Changing pad~~
+* ~~Baby Bathtub~~
+* ~~Baby Soap~~
+* ~~Baby Shampoo~~
+* ~~Baby oil~~
+* ~~Nose Syringe~~
+* ~~Baby Nail Clippers~~
+* ~~Forehead thermometer~~
+* ~~2 Baby Towels~~
+* ~~10 washcloths~~
+* ~~Nursing Bras~~
+* ~~Breast Milk storage bottles~~
+* ~~Spoons and Forks~~
 
 
 ---
