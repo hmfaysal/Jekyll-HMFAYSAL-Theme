@@ -67,9 +67,9 @@ Today... I have viewed the last cut-scene... the last movie... the ending credit
 
 Today I commemorate this day as a celebration of unity amongst my fellow players (and viewers) in honor of the memories, in honor of the years spent discovering and experiencing the epic saga known as StarCraft.
 
-I lovingly showcase these achievements awarded to such a right of passage on my player profile and encourage anyone and everyone to pick it up and play.
+I lovingly [showcase these achievements](http://us.battle.net/sc2/en/profile/331638/1/JimRaynor/achievements/) awarded to such a right of passage on my player profile and encourage anyone and everyone to pick it up and play.
 
-![http://us.battle.net/sc2/en/profile/331638/1/JimRaynor/achievements/](../images/sc-achievements.png)
+![achievements](../images/sc-achievements.png)
 
 I implore you to make your own memories as you travel through the Koprulu Sector.
 
