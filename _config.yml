@@ -89,4 +89,4 @@ kramdown:
 gems: [jekyll-paginate]
 
 include: [".htaccess"]
-exclude: [".gitignore", "build.bat", "build-deploy.bat", "build-init.bat", "desktop.ini", "post.thor",  "lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["journal/", ".gitignore", "build.bat", "build-deploy.bat", "build-init.bat", "desktop.ini", "post.thor",  "lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
