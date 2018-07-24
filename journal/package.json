@@ -28,7 +28,7 @@
     "docs:build": "gitbook build ./ ./docs",
     "docs:status": "git status",
     "docs:git_master": "git add . && git commit -am 'gitbook updates'&& git push origin master",
-    "docs:git_cptomain": "rm -rf ~/gitstuff/jim-main/journal && mkdir ~/gitstuff/jim-main/journal && cp -r ~/gitstuff/journal/ ~/gitstuff/jim-main/",
+    "docs:git_cptomain": "rm -rf ~/gitstuff/jim-main/journal && cp -r ~/gitstuff/journal/docs/ ~/gitstuff/jim-main/ && mv ~/gitstuff/jim-main/docs ~/gitstuff/jim-main/journal",
     "notworking:git_pushtomain": "cd ~/gitstuff/jim-main/ && rm -rf ~/gitstuff/jim-main/journal/node_modules && git add ~/gitstuff/jim-main/* && git commit -am 'gitbook updates' && git push git@github.com:howkj1/jim-main.git master",
     "wip:clean": "rimraf _book",
     "wip:git_gh_pages": "cd _book; rm ./.gitignore; git commit --allow-empty -m 'ghpages: Update docs and examples' && touch .nojekyll && git add . && git commit -am 'Update docs and examples' && git checkout -b gh-pages; git push --set-upstream journal gh-pages; git fetch; git rebase gh-pages;  git push git@github.com:howkj1/journal.git gh-pages --force"
