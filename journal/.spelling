@@ -1,0 +1,262 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+virtualbox
+linode
+github
+chromebook
+ok
+init
+debian
+ssh
+sudo
+xorg
+Stapelberg
+Panchenko
+Moritz
+Bandemer
+wifi
+prereqs
+XQuartz
+Frazelle’s
+dockerfile
+Frazelle
+os
+gh-pages
+Gitbook
+favorite
+staticgen
+Redux
+Javascript
+plugins
+disqus
+youtube
+golang
+unicode
+galliumos
+chrx
+ergodox
+spacemacs
+advantage2
+gb
+macbook
+4k
+WebAssembly
+Eich
+dao
+freecodecamp’s
+Marijn
+Haverbeke
+Prototypal
+screencasts
+ebooks
+favor
+wat
+npm
+goliath
+analyze
+qc
+Straaten
+browserify
+WebPack
+startup
+ee
+reusability
+nosql
+deferreds
+commonjs
+multifactor
+oauth
+affordances
+Jiron
+rollout
+QUnit
+eval
+ericelliottjs.com
+Qunit
+U.S.
+Lindley
+gitbook
+Fábio
+Rehm
+Fredrik
+Averpil
+movies
+reddit
+Ubersicht
+color
+gui
+katas
+lindode
+devops
+homemade
+api
+clojure
+concatenative
+behaviors
+behavior
+mixins
+microservice
+monolthic
+microservices
+composable
+vaynerchuk
+walkthrough
+ember.js
+bootcamp
+vimeo
+writeup
+Cory
+joshuamccall.com
+joshmccall221
+joshmccall
+dsmwebgeeks
+Travi
+dsmjs
+Tada
+_site
+Codenvy
+stackoverflow
+linter
+ - ./SUMMARY.md
+2017
+GitBook
+2016
+Workiva
+HackMyResume
+formspree.io
+3
+OSX
+Chromebook
+2
+ASP.NET
+MVC
+5
+EE
+vmware
+macOS
+Steno
+_
+ - ./articles/azure_pricing.md
+MacBook
+anti-microsoft
+env
+windooze
+ie
+Linode-like
+ - ./articles/bf.md
+invertocat-hoodie
+ - ./articles/computer_speech.md
+dragon788
+ - ./articles/debian-docker.md
+jessie64
+install.sh
+wm
+dotfiles
+Netinst
+refcard
+Mod1
+Mod4
+fullscreen
+dmenu
+ - ./articles/go.md
+go1.4
+ - ./articles/hackmyresume.md
+jsonresume
+resume.json
+ - ./articles/how_i_compute.md
+osx-workstation
+ - ./articles/mentoring_with_ee.md
+Babys
+10-hour
+Pedalboardjs
+Rong
+Isnt
+Youre
+prototypal
+oo
+OCaml
+Frisby’s
+memoize
+Cycle.js
+ - ./articles/my_new_term.md
+hyper.js
+Colorscheme
+ - ./articles/programming_javascript_applications.md
+repl.it
+reactplayground
+jsfiddle.net
+ - ./articles/reading_list.md
+_ericelliott
+learnjs
+reactenlightenment
+GlennThompson
+Mens
+elementary.io
+kwm
+Vagrantfile-osx-el-capitan
+hypernight
+secretgeek's
+ - ./articles/workiva.md
+_flux
+_dev
+go-datastructures
+ - ./articles/npmrunall.md
+package.json
+ - ./articles/markdown-spellcheck.md
+speell
+package.json
+haxor
+ - ./articles/node.md
+md
+vmd
+ - ./articles/steno.md
+BluePloverPi
+bluetooth
+Mqrius
+keymap.c
+qmk
+_firmware
+ - ./articles/editor_wars.md
+Webstorm
+JetBrainsTV
+WebStorm
+Cheatsheet
+ - ./articles/github.md
+ccmenu
+ - ./articles/personal_brand.md
+troyhunt.com
+Boostrap
+ember-fastboot
+robwebdev
+ember-cli-static-site-website
+ember-cli-static-site
+Kickstarting
+ember.js
+handlebars.js
+Hussey
+Caballer
+simpleprogrammer
+laracasts
+leveluplunch
+Musgrove
+jstnm
+toranbillups
+kentcdodds
+ericelliottjs
+troyhunt
+Pluralsight
+bitnative
+ - ./articles/from-0-to-_.md
+javascript
+ladyleet's
+ladyleet
+freecodecamp
+joshmccall221
+joshmccall
+ - ./articles/plop.md
+amwmedia
+github.com
+npmjs.com

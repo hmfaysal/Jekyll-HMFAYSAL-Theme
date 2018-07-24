@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "disqus",
+    "etoc",
+    "summary",
+    "youtube"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "howkj1"
+    },
+    "etoc": {
+      "mindepth": 1,
+      "maxdepth": 4,
+      "notoc": false
+    }
+  }
+}
