@@ -28,3 +28,4 @@
     * [Senior Software Engineer Book](articles/senior_software_engineer_book.md)
     * [3 D Portrait Modeled Without Scans Looks Real](articles/3_d_portrait_modeled_without_scans_looks_real.md)
     * [A New Way To Look At July Jon Acuff](articles/a_new_way_to_look_at_july_jon_acuff.md)
+    * [Why I Hired A Girl On Craigslist To Slap Me In The Face And How It Quadrupled My Productivity](articles/why_i_hired_a_girl_on_craigslist_to_slap_me_in_the_face_and_how_it_quadrupled_my_productivity.md)
