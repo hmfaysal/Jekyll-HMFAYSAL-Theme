@@ -1,7 +1,6 @@
-<div class="container">	
+<div class="container">
 			<div class="codrops-top clearfix">
 				{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><span>Follow my Updates</span></a>{% endif %}
-				<span class="right">{% if site.owner.hmfaysalsocial %}<a href="http://social.hmfaysal.tk/index.php?a=profile&u={{ site.owner.hmfaysalsocial }}" title="{{ site.owner.name}} on HMFaysal Social" target="_blank"><span>Add me as a friend</span></a>{% endif %}</span>
 			</div>
 		  <!-- Collect the nav links, forms, and other content for toggling -->
 		  <header>
@@ -19,7 +18,7 @@
 					<a href="{{ link.url }}"><span>{{ link.title }}</span></a>
 				{% else %}
 					<a href="{{ site.url }}{{ link.url }}"><span>{{ link.title }}</span></a>
-				{% endif %} 
+				{% endif %}
 			</li>
 	        {% endfor %}
 	        <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><span>Feed</a></span></li>
