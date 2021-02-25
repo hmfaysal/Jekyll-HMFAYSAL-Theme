@@ -1,4 +1,17 @@
-
+---
+layout: post
+title: Status vs Faith
+published: true
+description: "Seeking Status vs Having Faith"
+modified: 2021-02-24
+category: articles
+tags: [work, life,Bible,connection]
+image:
+  feature: 
+  credit: Jim Howk
+  creditlink: http://jimhowk.com
+comments: true  
+---
 
 
 Greetings Friend, 
