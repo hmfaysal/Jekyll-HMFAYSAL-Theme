@@ -37,14 +37,14 @@
   "license": "MIT",
   "homepage": "https://jimhowk.com",
   "peerDependencies": {
-    "react": "~0.13.x || ~0.14.x || ^15.0.0"
+    "react": "^18.2.0"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.0",
+    "gitbook-cli": "^0.1.0",
     "markdown-spellcheck": "^0.11.0",
     "npm-run-all": "^4.1.2",
     "plop": "^1.8.1",
-    "react": "^15.4.2",
+    "react": "^18.2.0",
     "rimraf": "2.5.4"
   },
   "dependencies": {
